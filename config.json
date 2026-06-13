@@ -1,6 +1,6 @@
 {
-  "serverHost": "example.aternos.me",
-  "serverPort": 12345,
+  "serverHost": "Scufftopia.aternos.me",
+  "serverPort": 20360,
   "botUsername": "IceLaterBot",
   "botChunk": 1
 }
